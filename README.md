@@ -13,7 +13,7 @@
 
 <h3> 🛠 Tech Stack </h3>
 
-- 💻;
+- 💻
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![Julia (Statistics)](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia&logoColor=276DC3)
@@ -34,7 +34,6 @@
 <p align="center">
 <a href="https://linktr.ee/"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-blue?style=flat-square&logo=linktree"></a>
 <a href="https://www.noon-abdulqadir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.noon-abdulqadir.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/noon-abdulqadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-noon-abdulqadir-blue?style=flat-square&logo=linkedin"></a>
-
+<a href="https://www.linkedin.com/in/noon-abdulqadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:noon.abdulqadir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noon.abdulqadir@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

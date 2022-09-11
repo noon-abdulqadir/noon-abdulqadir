@@ -19,11 +19,11 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia&logoColor=276DC3)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL&logoColor=276DC3)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=276DC3)
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter-ide&logoColor=2C2255)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter-ide&logoColor=007ACC)
 
 <h3> 📈 Stats </h3>
 

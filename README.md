@@ -7,11 +7,11 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
 - 🔭 I’m currently working on a PhD in communication science
 - 🌱 I’m currently learning NLP Deep Learning 
 - 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with Data Science
+- 🤔 I’m looking for help with Data Science and Machine Learning
 - 💬 Ask me about Bias in AI
 - 📫 How to reach me: @NoonAbdulqadir
-- 😄 Pronouns: She/Her They/Them
-- ⚡ Fun fact: I build keyboards and love horror movies
+- 😄 Pronouns: She/Her & They/Them
+- ⚡ Fun fact: I build keyboards, watch horror movies, and obsess over internet things.
 
 <h3> 🛠 Tech Stack </h3>
 

@@ -25,7 +25,6 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text-ide&logoColor=2C2255)
 
 <h3> 📈 Stats </h3>
-
 <br/>
 
 <a href="https://github.com/AVS1508">

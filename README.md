@@ -23,7 +23,7 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter-ide&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
 
 <h3> 📈 Stats </h3>
 

@@ -30,11 +30,3 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noon-abdulqadir&show_icons=true&theme=default" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noon-abdulqadir&layout=compact&theme=default" />
 </a>
-
-<h3> 📞 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.noonabdulqadir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.noonabdulqadir.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/noon-abdulqadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Noon%20Abdulqadir-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:noon.abdulqadir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noon.abdulqadir@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>

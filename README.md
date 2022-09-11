@@ -1,6 +1,6 @@
 <h2> Hi there! 👋🏾
 
-I'm [Noon](https://akhilgkrishnan.me) 👋🏾 </h2>
+I'm [Noon](https://noon-abdulqadir.com) </h2>
 
 <h3> 👩🏾‍💻 &nbsp;About Me </h3>
 

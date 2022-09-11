@@ -9,3 +9,7 @@
 - 😄 Pronouns: She/Her They/Them
 - ⚡ Fun fact: I build keyboards and love horror movies
 -->
+##### My Stats:
+[![Noon's GitHub stats](https://github-readme-stats.vercel.app/api?username=noon-abdulqadir&show_icons=true&theme=radical)](https://github.com/noon-abdulqadir/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noon-abdulqadir&layout=compact)](https://github.com/noon-abdulqadir/github-readme-stats)

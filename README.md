@@ -25,14 +25,11 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text-ide&logoColor=2C2255)
 
 <h3> 📈 Stats </h3>
-<br/>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noon-abdulqadir&show_icons=true&theme=default" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noon-abdulqadir&layout=compact&theme=default" />
 </a>
-
-<br/>
 
 <h3> 📞 Connect with Me </h3>
 

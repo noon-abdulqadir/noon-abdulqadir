@@ -34,6 +34,6 @@
 <p align="center">
 <a href="https://linktr.ee/"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-blue?style=flat-square&logo=linktree"></a>
 <a href="https://www.noon-abdulqadir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.noon-abdulqadir.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/noon-abdulqadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/noon-abdulqadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Noon%20Abdulqadir-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:noon.abdulqadir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noon.abdulqadir@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

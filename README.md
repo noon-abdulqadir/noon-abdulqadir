@@ -22,8 +22,8 @@ I'm [Noon](https://noon-abdulqadir.com) </h2>
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=276DC3)
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
 
 <h3> 📈 Stats </h3>
 

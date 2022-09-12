@@ -11,7 +11,7 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 - 💬 Ask me about Bias in AI
 - 📫 How to reach me: @NoonAbdulqadir
 - 😄 Pronouns: She/Her & They/Them
-- ⚡ Fun fact: I build keyboards, watch horror media, play vidya, and obsess over internet things.
+- ⚡ Fun fact: I build keyboards, watch horror, play vidya, and obsess over internet things.
 
 <h3> 🛠 Tech Stack </h3>
 

@@ -10,7 +10,7 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 - 🤔 I’m looking for help with Data Science and Machine Learning
 - 💬 Ask me about Bias in AI
 - 📫 How to reach me: @NoonAbdulqadir
-- 😄 Pronouns: She/Her & They/Them
+- 😄 Pronouns: She/Her, They/Them
 - ⚡ Fun fact: I build keyboards, watch horror, play vidya, and obsess over internet things.
 
 <h3> 🛠 Tech Stack </h3>

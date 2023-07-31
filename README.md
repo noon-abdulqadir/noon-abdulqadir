@@ -28,6 +28,6 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 <h3> 📈 Stats </h3>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noon-abdulqadir&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noon-abdulqadir&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noon-abdulqadir&show_icons=true&theme=default&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noon-abdulqadir&layout=compact&theme=default&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
 </a>

@@ -4,7 +4,7 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 
 <h3> 👩🏾‍💻 &nbsp;About Me </h3>
 
-- 🔭 I'm currently working on a PhD in communication science [@UvA_ASCoR](https://twitter.com/UvA_ASCoR)
+- 🔭 I'm currently looking for a post-doc in communication science [@UvA_ASCoR](https://twitter.com/UvA_ASCoR)
 - 🌱 I'm currently learning RAG
 - 👯 I'm looking to collaborate on Python Projects
 - 🤔 I'm looking for help with Data Science and Machine Learning

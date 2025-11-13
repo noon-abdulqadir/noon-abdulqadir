@@ -18,10 +18,11 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 - 💻
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia&logoColor=276DC3)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=276DC3)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=276DC3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=276DC3)
+  ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=276DC3)
 - 🔧
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=VSCodium&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=007ACC)
 

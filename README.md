@@ -4,7 +4,7 @@ I'm [Noon](https://linktr.ee/noon.abdulqadir) </h2>
 
 <h3> 👩🏾‍💻 &nbsp;About Me </h3>
 
-- 🎓 Postdoctoral researcher in Communication Science at [VU Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences); PhD from [ASCoR](https://ascor.uva.nl/), University of Amsterdam (*Hiring in the Digital Society*)
+- 🎓 Postdoctoral researcher in Communication Science at [VU Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-social-sciences/departments/communication-science); PhD from [ASCoR](https://ascor.uva.nl/), University of Amsterdam (*Hiring in the Digital Society*)
 - 🔭 I'm currently working on **Bias Revisited**, an NWO-funded Registered Report replicating foundational studies on motivated reasoning and hostile media perceptions across Dutch, UK, and Spanish media systems
 - 🧪 I build research tooling: transformer-based classifiers for automated content analysis, and Zotero/Notion workflow automation
 - 🌱 I'm currently thinking about GenAI sycophancy and what it means for political deliberation
